@@ -26,3 +26,10 @@ Quanto mais replica menos inatividade
 Atenção a custo
 
 
+#resumo-do-lab - Configurando uma instancia de banco de dados no Azure
+
+ - Sistema operacional
+ - Criação banco de dados SQL
+ - Criação servidor 
+ - autenticação
+ - Visualização do custo mensal
